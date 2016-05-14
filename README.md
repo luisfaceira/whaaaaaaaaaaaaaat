@@ -1,7 +1,7 @@
 # hello-world
 
-Este é um pequeno projeto de aprendizagem
-das opções básicas de utilização do git.
+This is a small project to learn
+the essential git operations.
 
 Sequência de operações que
 serão experimentadas:
